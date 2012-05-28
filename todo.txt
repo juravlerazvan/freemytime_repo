@@ -1,0 +1,12 @@
+
+http://www.99points.info/2010/05/codeigniter-tutorials-how-to-create-ajax-pagination-using-codeigniter/
+
+paginare
+afisare pe harta
+integrare social media
+pay pal
+my account
+login/logout/forgot password
+pagina detaliere task si info employer
+test trimitere email
+Feedback

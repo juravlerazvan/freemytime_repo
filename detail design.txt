@@ -1,0 +1,9 @@
+################################################
+#      VIEW VARIABLES: variable, value, result #
+################################################
+
+$show_map                       TRUE/FALSE          show/hide task map on page.
+$show_fb                        TRUE/FALSE          show/hide Facebook widget.
+$show_tw                        TRUE/FALSE          show/hide Twitter widget.
+$available_task_counter         number              if is greater than 0, displays on page current number of pending to solve/bid tasks.
+$resultStatus                   TRUE/FALSE          action was succesfull or error ocurred - verify log files

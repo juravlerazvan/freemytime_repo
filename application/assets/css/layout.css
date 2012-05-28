@@ -1,0 +1,14 @@
+
+.col1, .col2, .col3, .cols { float:left;}
+
+.col1{ width:510px;}
+.col2{ width:350px;}
+.col3{ width:260px;}
+.cols{ width:230px;}
+
+#content2 .col1{ width:540px;}
+#content2 .col2{ width:300px;}
+#content2 .cols{ width:237px;}
+
+#page6 #content2, #page6  .body3{ font-size:0; line-height:0; height:10px; padding-bottom:0}
+#page6 .cols{ width:83px;}
